@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👨‍💻 I’m currently working on<br>Building full-stack projects using Java, Spring Boot, React, and MySQL to strengthen my backend and frontend skills.<br>🤝 I’m looking to collaborate on<br>Open-source Java / React projects, beginner-friendly full-stack applications, and real-world problem-solving projects.<br>🧠 I’m looking for help with<br>Advanced backend concepts, system design basics, and improving code quality & architecture.<br>🌱 I’m currently learning<br>Spring Boot, REST APIs, React.js, Git/GitHub, and Data Structures & Algorithms.<br>💬 Ask me about<br>Java, Spring Boot, React, JavaScript ES6+, HTML5, CSS3, REST APIs, Git, and basic system design.<br>⚡ Fun fact<br>I enjoy turning complex problems into simple, working solutions and learning something new every day.<br>
 
 
